@@ -563,6 +563,11 @@
     "require-from-string" "^2.0.2"
     "uri-js" "^4.2.2"
 
+"amfe-flexible@^2.2.1":
+  "integrity" "sha512-L2VfvDzoETBjhRptg5u/IUuzHSuxm22JpSRb404p/TBGeRfwWmmNEbB+TFPIP/sS/+pbM18bCFH9QnMojLuPNw=="
+  "resolved" "https://registry.npmmirror.com/amfe-flexible/-/amfe-flexible-2.2.1.tgz"
+  "version" "2.2.1"
+
 "ansi-regex@^5.0.1":
   "integrity" "sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ=="
   "resolved" "https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz"
@@ -2414,6 +2419,11 @@
     "@vue/devtools-api" "^6.5.0"
     "vue-demi" ">=0.14.5"
 
+"postcss-pxtorem@^6.0.0":
+  "integrity" "sha512-ZRXrD7MLLjLk2RNGV6UA4f5Y7gy+a/j1EqjAfp9NdcNYVjUMvg5HTYduTjSkKBkRkfqbg/iKrjMO70V4g1LZeg=="
+  "resolved" "https://registry.npmmirror.com/postcss-pxtorem/-/postcss-pxtorem-6.0.0.tgz"
+  "version" "6.0.0"
+
 "postcss-resolve-nested-selector@^0.1.1":
   "integrity" "sha512-HvExULSwLqHLgUy1rl3ANIqCsvMS0WHss2UOsXhXnQaZ9VCc2oBvIpXrl00IUFT5ZDITME0o6oiXeiHr2SAIfw=="
   "resolved" "https://registry.npmjs.org/postcss-resolve-nested-selector/-/postcss-resolve-nested-selector-0.1.1.tgz"
@@ -2437,7 +2447,7 @@
   "resolved" "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz"
   "version" "4.2.0"
 
-"postcss@^8.1.10", "postcss@^8.3.3", "postcss@^8.4.27":
+"postcss@^8.0.0", "postcss@^8.1.10", "postcss@^8.3.3", "postcss@^8.4.27":
   "integrity" "sha512-7ZEao1g4kd68l97aWG/etQKPKq07us0ieSZ2TnFDk11i0ZfDW2AwKHYU8qv4MZKqN2fdBfg+7q0ES06UA73C1g=="
   "resolved" "https://registry.npmjs.org/postcss/-/postcss-8.4.30.tgz"
   "version" "8.4.30"

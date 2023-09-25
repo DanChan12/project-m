@@ -4,6 +4,7 @@ import i18n from './locals';
 import App from './App.vue';
 import router from '@/router/index';
 import pinia from '@/store/index';
+import 'amfe-flexible';
 import '@/styles/index.scss';
 
 pinia.use(piniaPluginPersistedstate);
